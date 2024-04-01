@@ -1,0 +1,16 @@
+<students>
+    <student>
+        <last_name>ало</last_name>
+        <first_name>Иван</first_name>
+        <middle_name>Иванович</middle_name>
+        <group_name>Группа 1</group_name>
+        <sem1_public_works>10</sem1_public_works>
+        <sem2_public_works>20</sem2_public_works>
+        <sem3_public_works>30</sem3_public_works>
+        <sem4_public_works>40</sem4_public_works>
+        <sem5_public_works>50</sem5_public_works>
+        <sem6_public_works>60</sem6_public_works>
+        <sem7_public_works>70</sem7_public_works>
+        <sem8_public_works>80</sem8_public_works>
+    </student>
+</students>

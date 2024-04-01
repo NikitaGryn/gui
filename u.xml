@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student>
+		<id>47</id>
+		<last_name>κεθο</last_name>
+		<first_name></first_name>
+		<middle_name></middle_name>
+		<group_name>4</group_name>
+		<sem1_public_works>0</sem1_public_works>
+		<sem2_public_works>0</sem2_public_works>
+		<sem3_public_works>0</sem3_public_works>
+		<sem4_public_works>0</sem4_public_works>
+		<sem5_public_works>0</sem5_public_works>
+		<sem6_public_works>0</sem6_public_works>
+		<sem7_public_works>0</sem7_public_works>
+		<sem8_public_works>0</sem8_public_works>
+	</student>
+</students>
